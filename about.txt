@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Project 2 Demo About</title>
+   </head>
+
+   <body>
+      <a href=“jhormac1.github.io/”><img src="jhormac1.github.io/img/about.png" alt=“X” width=“100%”></a>
+   </body>
+</html>
